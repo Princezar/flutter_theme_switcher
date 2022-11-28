@@ -7,6 +7,7 @@ import 'package:provider/provider.dart';
 import 'consts/theme_data.dart';
 import 'providers/theme_provider.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
