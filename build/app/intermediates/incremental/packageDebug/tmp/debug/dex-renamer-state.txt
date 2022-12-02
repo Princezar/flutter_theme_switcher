@@ -1,4 +1,4 @@
-#Mon Nov 28 07:38:54 PST 2022
+#Fri Dec 02 09:30:57 PST 2022
 base.0=/Users/SolenergyRD/Documents/news_app_flutter_course/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
