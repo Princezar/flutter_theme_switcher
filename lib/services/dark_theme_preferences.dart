@@ -8,6 +8,7 @@ class ThemePreferences {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     prefs.setBool(THEME_STATUS, value);
   }
+  
 
   Future<bool> getTheme() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
@@ -17,3 +18,4 @@ class ThemePreferences {
     false;
   }
 }
+

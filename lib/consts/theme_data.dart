@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'global_colors.dart';
 
+
 class Styles {
   static ThemeData themeData(bool isDarkTheme, BuildContext context){
     return ThemeData(
